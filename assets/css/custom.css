@@ -1,0 +1,5 @@
+/* Hide card images inside the talks/events block */
+#events-science .article-card .card-image,
+#events-science .card .card-image {
+  display: none;
+}

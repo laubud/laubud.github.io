@@ -1,116 +1,96 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  display: "Laura Stüde"
+  given: "Laura"
+  family: "Stuede"
+  alternate: ""
+  pronunciation: ""
+  pronouns: "sie/ihr"
+role: "Kinder- und Jugendlichenpsychotherapeutin"
+bio: "-"
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: "Medizinische Hochschule Hannover"
+    url: "https://ai.meta.com/"
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "at-symbol"
+    url: "mailto:laurastuede@posteo.de"
+    label: "E-mail Me"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?hl=de&user=f8LZ1q8AAAAJ&view_op=list_works&gmla=AElLoL30dmKWV_sy2kztz8XwBWwpfSV9YxTQqK09DKG8rR_RJ7rqIAWwAEuWMKY8QD7sAFpXtPoVIhzQGj8U2x2ZmY-tveWtIgCInkjL1f6oGnfu0xrZa6aHo8SpBcVHHgUVEZ7KrIPQV25ihOeOORpMMfhAMcU3KDbVN7WBu8ERxo7J4fQAqiqH3CDtPInFmvyI_TSTFXanucXF1g&iaan=Laura+Budnik"
+  - icon: "brands/linkedin"
+    url: "https://www.linkedin.com/in/laura-budnik-4892722a3/"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Large Language Models"
+  - "Computer Vision"
+  - "Reinforcement Learning"
+  - "AI Ethics"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+  - degree: "PhD in Klinischer Psychologie und Sexualmedizin"
+    institution: "Medizinische Hochschule Hannover"
+    start: "2023-02-01"
+    end: ""
+    summary: "My doctoral research focuses on adolescents with sexually problematic behaviors who remain outside the justice system (“dark field”). The project explores current service structures in Germany and examines the feasibility of a new intervention approach designed to reach and support this underserved population."
+  - degree: "Weiterbildung zur Gerichtsgutachterin "
+    institution: "Institut für verhaltenstherapeutisch fundierte Psychotherapie (IVS)"
+    start: "2024-07-01"
+    end: ""
+    summary: "Qualifizierte Weiterbildung in forensischer Psychologie mit Schwerpunkt Jugendstrafrecht."
+  - degree: "Spezielle Psychotraumatherapie mit Kindern und Jugendlichen"
+    institution: "Deutschsprachige Gesellschaft für Psychotraumatologie"
+    start: "2022-08-01"
+    end: "2026-01-01"
+    summary: "Umfassende berufsbegleitende Weiterbildung in Psychotraumatologie und Traumatherapie gemäß den Richtlinien der Deutschen Gesellschaft für Psychotraumatologie (DeGPT)."
+  - degree: "Kinder- und Jugendpsychotherapeutin (VT)"
+    institution: "Gesellschaft für Verhaltenstherapie"
+    start: "2019-10-01"
+    end: "2023-10-01"
+    summary: "Mehrjährige staatlich anerkannte Ausbildung mit Schwerpunkt auf verhaltenstherapeutischen Ansätzen in der Diagnostik und Behandlung von Kindern, Jugendlichen und jungen Erwachsenen.\""
+  - degree: "Master Sonderpädagogik"
+    institution: "Leibniz Universität Hannover"
+    start: "2019-10-01"
+    end: "2021-09-01"
+    summary: "Pädagogisch-psychologische Vertiefung in Förderung, Diagnostik und Beratung von Kindern und Jugendlichen mit sonderpädagogischem Unterstützungsbedarf, Schwerpunkt emotionale und soziale Entwicklung."
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
+  - role: "Projekttherapeutin und Promotionsstudentin im Präventionsprojekt #180Grad"
+    org: "Medizinische Hochschule Hannover"
+    start: "2022-11-01"
+    end: ""
+    summary: "Klinisch-therapeutische und wissenschaftliche Tätigkeit im Rahmen des Projekts 180Grad zur Prävention sexualisierter und grenzverletzender Verhaltensweisen bei Jugendlichen. Durchführung diagnostischer und therapeutischer Interventionen, Mitarbeit in Forschung und Konzeptentwicklung sowie Promotion im Bereich forensischer und klinischer Jugendpsychologie."
+  - role: "Kinder- und Jugendlichenpsychotherapeutin"
+    org: "Netzwerk für traumatisierte Geflüchtete (NTFN)"
+    start: "2022-06-01"
+    end: "2023-11-01"
+    summary: "Psychotherapeutische Arbeit mit geflüchteten Kindern und Jugendlichen mit traumatischen Belastungen. "
+  - role: "Praktisches Klinikjahr (KJP-Ausbildung)"
+    org: "Kinder- und Jugendkrankenhaus auf der Bult (Teen-Spirit-Island)"
+    start: "2021-07-01"
+    end: "2022-07-01"
+    summary: "bsolvierung des obligatorischen praktischen Klinikjahrs (1.200 Stunden) gemäß Psychotherapeutengesetz in stationärer kinder- und jugendpsychiatrischer Behandlung."
+#skills: []
 languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
+  - name: "Englisch"
     level: 4
-    label: Fluent
-
+    label: "C1"
+  - name: "Norwegisch"
+    level: 1
+    label: "Basic"
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: "Promotionsstipendium"
+    awarder: "Evangelisches Studienwerk Villigst"
+    date: "2023-10-01"
+    summary: "Begabtenförderung für die Promotionsphase mit monatlicher finanzieller Unterstützung sowie einem umfangreichen ideellen Programm aus Seminaren, Vernetzungsangeboten und individueller fachlicher Begleitung."
+    icon: "hero/trophy"
+  - title: "Studienstipendium"
+    awarder: "Evangelisches Studienwerk Villigst"
+    date: "2018-01-01"
+    summary: "Begabtenförderung für Studierende auf Studienzeit."
+    icon: "hero/trophy"
+weight: null
+postnominals:
+  - "-"
+status:
+  icon: "🎓"
+ids:
+  orcid: "0000-0002-0346-2839"

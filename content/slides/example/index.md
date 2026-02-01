@@ -6,12 +6,13 @@ type: slides
 slides:
   theme: black
   highlight_style: dracula
-  diagram: true  # Enable Mermaid diagrams
+  diagram: true # Enable Mermaid diagrams
   reveal_options:
     controls: true
     progress: true
     slideNumber: true
     hash: true
+
 ---
 
 # Example Talk
