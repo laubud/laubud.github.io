@@ -1,0 +1,14 @@
+{{ $is_administrator := eq site.Params.role "administrator" }}
+{{ range first 10 .Params.authors }}
+  {{ $author := site.GetPage (printf "/authors/%s" (path.Base .)) }}
+  {{ if and $author $is_administrator }}
+    <a href="{{ $author.RelPermalink }}">{{ . | markdownify | humanize }}</a>{{ with $author.Params.role }}<sup>{{ . }}</sup>{{ end }}, 
+  {{ else }}
+    {{ . | markdownify | humanize }}{{ with index $.Params.authors_after_prefix . }}{{ . }}{{ end }}, 
+  {{ end }}
+{{ end }}
+{{ with .Params.publication_short }}
+  <em>{{ . }}</em>
+{{ else }}
+  <em>{{ .Params.publication }}</em>
+{{ end }}:

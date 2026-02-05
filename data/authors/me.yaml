@@ -12,7 +12,7 @@ role: "Kinder- und Jugendlichenpsychotherapeutin (VT)"
 bio: "-"
 affiliations:
   - name: "Medizinische Hochschule Hannover"
-    url: "https://ai.meta.com/"
+    url: "https://www.mhh.de/"
 links:
   - icon: "at-symbol"
     url: "mailto:laurastuede@posteo.de"
@@ -68,13 +68,6 @@ experience:
     start: "2021-07-01"
     end: "2022-07-01"
     summary: "Absolvierung des obligatorischen praktischen Klinikjahrs (1.200 Stunden) gemäß Psychotherapeutengesetz in stationärer kinder- und jugendpsychiatrischer Behandlung."
-#languages:
- # - name: "Englisch"
- #   level: 4
-  #  label: "C1"
- # - name: "Norwegisch"
-  #  level: 1
- #   label: "Basic"
 awards:
   - title: "Promotionsstipendium"
     awarder: "Evangelisches Studienwerk Villigst"
@@ -88,7 +81,7 @@ awards:
     icon: "hero/trophy"
 weight: null
 postnominals:
-  - "-"
+  - "geb. Budnik"
 status:
   icon: "🎓"
 ids:

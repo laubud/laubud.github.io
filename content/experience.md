@@ -22,7 +22,7 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Auszeichnung
+      title: Auszeichnungen
       username: me
   #- block: resume-skills
     #content:
