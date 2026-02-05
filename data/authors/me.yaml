@@ -63,18 +63,18 @@ experience:
     start: "2022-06-01"
     end: "2023-11-01"
     summary: "Psychotherapeutische Arbeit mit geflüchteten Kindern und Jugendlichen mit traumatischen Belastungen. "
-  - role: "Praktisches Klinikjahr (KJP-Ausbildung)"
+  - role: "Praktisches Klinikjahr"
     org: "Kinder- und Jugendkrankenhaus auf der Bult (Teen-Spirit-Island)"
     start: "2021-07-01"
     end: "2022-07-01"
     summary: "Absolvierung des obligatorischen praktischen Klinikjahrs (1.200 Stunden) gemäß Psychotherapeutengesetz in stationärer kinder- und jugendpsychiatrischer Behandlung."
-languages:
-  - name: "Englisch"
-    level: 4
-    label: "C1"
-  - name: "Norwegisch"
-    level: 1
-    label: "Basic"
+#languages:
+ # - name: "Englisch"
+ #   level: 4
+  #  label: "C1"
+ # - name: "Norwegisch"
+  #  level: 1
+ #   label: "Basic"
 awards:
   - title: "Promotionsstipendium"
     awarder: "Evangelisches Studienwerk Villigst"

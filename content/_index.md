@@ -17,7 +17,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Download Lebenslauf
         url: uploads/resume.pdf
       headings:
         about: ""
@@ -71,25 +71,18 @@ sections:
   #   count: 3
   #   design:
   #     view: "card"
-  - block: cta-button-list
+  - block: markdown
     id: events
     content:
       title: "Veranstaltungen"
-      text: "Veranstaltungen"
-      buttons:
-        - text: "Wissenschaftliche Vorträge"
-          url: "/events-science"
-          icon: "academic-cap"
-        # - text: "Workshops"
-        #   url: "/events-workshops"
-        #   icon: "chat-bubble-left-right"
-        - text: "Öffentliche Auftritte"
-          url: "/events-public"
-          icon: "user-group"
+      subtitle: ""
+      text: |-
+        {{< cards >}}
+        {{< card url="./events-science" title="Wissenschaftliche Vorträge" icon="academic-cap" >}}
+        {{< card url="./events-public" title="Öffentliche Auftritte" icon="user-group" >}}
+        {{< /cards >}}
     design:
-      columns: "3"
-      background:
-        color: "blue-50"
+      columns: "1"
   # - block: collection
   #   id: news
   #   content:

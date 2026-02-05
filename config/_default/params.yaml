@@ -15,15 +15,14 @@ hugoblox:
     # Site name - shown in navbar, footer, copyright, and browser title by default
     name: "Laura Stüde"
     # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    organization: "Medizinische Hochschule Hannover"
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    tagline: "Kinder- und Jugendlichenpsychotherapeutin (VT)"
     # Social accounts (used for meta tags like Twitter Cards)
     social: {}
+    description: Projekttherapeutin und Doktorandin an der MHH Hannover im Präventionsprojekt 180Grad – Schwerpunkt forensische Jugendpsychologie und Behandlung sexuell grenzver
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -38,7 +37,7 @@ hugoblox:
     colors:
       primary: "" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
       secondary: ""
-      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
+      neutral: "stone" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -115,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}. Lizensiert unter {license}"
     license:
       type: cc # cc | custom
       allow_derivatives: false
@@ -128,15 +127,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Laura Stüde"
     # For local_business identity type only
     location:
       address:
-        street: ""
-        city: ""
+        street: "Carl-Neuberg-Straße 1"
+        city: "Hannover"
         region: ""
-        postal_code: ""
-        country: ""
+        postal_code: "30625"
+        country: "GER"
       coordinates:
         latitude: null
         longitude: null
@@ -174,7 +173,22 @@ hugoblox:
   search:
     enable: true
     # Trending/suggested search terms
-    suggestions: []
+    suggestions:
+      - forensische Jugendpsychologie
+      - Prävention sexualisierter Gewalt
+      - sexuell grenzverletzendes Verhalten Jugendliche
+      - Jugendliche mit sexuellen Missbrauchsdelikten
+      - Täterprävention sexualisierte Gewalt
+      - Jugendliche in forensischen Settings
+      - Rückfallprävention Jugendliche
+      - Kinder und Jugendlichenpsychotherapie
+      - Verhaltenstherapie Jugendliche
+      - Medizinische Hochschule Hannover
+      - 180Grad Präventionsprojekt
+      - empirische Forschung forensische Psychologie
+      - approbierte Kinder‑ und Jugendlichenpsychotherapie
+      - klinische Erfahrung Jugendpsychologie
+      - berufliche Perspektiven Forensische Psychologie
     # Quick action shortcuts in search modal
     quick_actions: []
 
@@ -240,9 +254,9 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006" # Go time format
-    time_format: "3:04 PM"
-    address_format: en-us
+    date_format: "2. Jan 2006" # Go time format
+    time_format: "14:04"
+    address_format: de
 
   # ────────────────────────────────────────────────────────────────────────────
   # SECURITY
@@ -260,7 +274,7 @@ hugoblox:
   # Privacy and compliance features
   # ────────────────────────────────────────────────────────────────────────────
   privacy:
-    enable: false
+    enable: true
     anonymize_analytics: true
 
   # ────────────────────────────────────────────────────────────────────────────
