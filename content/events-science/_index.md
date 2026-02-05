@@ -18,6 +18,8 @@ sections:
       filters:
         folders:
           - events-science
+        exclude_future: false
+        exclude_featured: false
     design:
       view: article-grid
       fill_image: false
