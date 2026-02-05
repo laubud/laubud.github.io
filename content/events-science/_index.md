@@ -13,7 +13,7 @@ sections:
   - block: collection
     content:
       title: Wissenschaftliche Vorträge
-      text: In meiner Forschung beschäftige ich mich mit der Prävention und Behandlung sexualisierter Gewalt durch Jugendliche. Im Rahmen meiner Doktorarbeit sowie meiner klinischen Tätigkeit halte ich regelmäßig Vorträge auf nationalen und internationalen Fachkongressen, in denen ich aktuelle Forschungsergebnisse, theoretische Konzepte und praxisnahe Ansätze vorstelle. Auf dieser Seite finden Sie eine Übersicht meiner bisherigen Vorträge mit Kurzinformationen zu den jeweiligen Veranstaltungen.
+      text: In meiner Forschung beschäftige ich mich mit der Prävention und Behandlung sexualisierter Gewalt durch Jugendliche. Im Rahmen meiner Doktorarbeit sowie meiner klinischen Tätigkeit halte ich Vorträge auf nationalen und internationalen Fachkongressen, in denen ich aktuelle Forschungsergebnisse, theoretische Konzepte und praxisnahe Ansätze vorstelle. Auf dieser Seite finden Sie eine Übersicht meiner bisherigen und zukünftigen Vorträge mit Kurzinformationen zu den jeweiligen Veranstaltungen.
 
       filters:
         folders:

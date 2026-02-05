@@ -43,7 +43,7 @@ sections:
       title: "Über mich"
       subtitle: ""
       text: |-
-        Als Projekttherapeutin und Promotionsstudentin an der Medizinischen Hochschule Hannover arbeite ich im Präventionsprojekt 180Grad, das therapeutische Angebote für Jugendliche mit sexuell grenzverletzendem Verhalten entwickelt und evaluiert, um sexualisierte Gewalt frühzeitig zu verhindern. 
+        Als Projekttherapeutin und Doktorandin an der Medizinischen Hochschule Hannover arbeite ich im Präventionsprojekt 180Grad, das therapeutische Angebote für Jugendliche mit sexuell grenzverletzendem Verhalten entwickelt und evaluiert, um sexualisierte Gewalt frühzeitig zu verhindern. 
 
         In meiner Promotion befasse ich mich mit forensischer Jugendpsychologie und der Frage, wie spezialisierte psychotherapeutische Interventionen Rückfälle reduzieren und Opferschutz durch wirksame Täterprävention verbessern können.
 
@@ -51,8 +51,9 @@ sections:
     design:
       columns: "1"
   - block: collection
+    id: publications    
     content:
-      title: Recent Publications
+      title: Publikationen
       text: ""
       filters:
         folders:
@@ -79,9 +80,9 @@ sections:
         - text: "Wissenschaftliche Vorträge"
           url: "/events-science"
           icon: "academic-cap"
-        - text: "Workshops"
-          url: "/events-workshops"
-          icon: "chat-bubble-left-right"
+        # - text: "Workshops"
+        #   url: "/events-workshops"
+        #   icon: "chat-bubble-left-right"
         - text: "Öffentliche Auftritte"
           url: "/events-public"
           icon: "user-group"
@@ -89,35 +90,29 @@ sections:
       columns: "3"
       background:
         color: "blue-50"
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ""
-      text: ""
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+  # - block: collection
+  #   id: news
+  #   content:
+  #     title: Vorträge
+  #     subtitle: ""
+  #     text: ""
+  #     #page_type: talk
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 10
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #        - events-science
+  #        #- events-public
+  #      # exclude_featured: false
+  #       #exclude_future: false
+  #       #exclude_past: false
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     # Reduce spacing
+  #     spacing:
+  #       padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:

@@ -1,11 +1,11 @@
 ---
-title: Symposium 2024
+title: Symposium 180Grad x ICanChange
 event_name: Gemeinsames Symposium der Projekte 180Grad und I Can Change
 event_url: "https://hugoblox.com"
-date: "2025-01-01T00:00:00Z"
+date: "2024-09-26T13:00:00Z"
 location: Hannover
 
-summary: Jugendliche Verursacher*innen sexualisierter Gewalt -  Ätiologie und Risikofaktoren
+summary: Medizinische Hochschule Hannover
 abstract: |
   Im Jahr 2024 haben wir gemeinsam mit dem Präventionsprojekt I Can Change, das sich an erwachsene Personen mit sexuell grenzverletzenden Fantasien oder Verhaltensweisen richtet, ein Symposium an der Medizinischen Hochschule Hannover ausgerichtet.
   Gastvortragende war Dr. med. Nahlah Saimeh zum Thema „Risikofaktoren für sexuelle Gewalt – Tätertypologien und prognoserelevante Aspekte für die Therapie“.
@@ -30,7 +30,8 @@ links:
   #   url: "https://docs.hugoblox.com/guides/slides/"
 authors:
   - me
-
+image:
+  preview_only: true
 featured: true
 ---
 

@@ -8,7 +8,7 @@ name:
   alternate: ""
   pronunciation: ""
   pronouns: "sie/ihr"
-role: "Kinder- und Jugendlichenpsychotherapeutin"
+role: "Kinder- und Jugendlichenpsychotherapeutin (VT)"
 bio: "-"
 affiliations:
   - name: "Medizinische Hochschule Hannover"
@@ -31,7 +31,7 @@ education:
     institution: "Medizinische Hochschule Hannover"
     start: "2023-02-01"
     end: ""
-    summary: "My doctoral research focuses on adolescents with sexually problematic behaviors who remain outside the justice system (“dark field”). The project explores current service structures in Germany and examines the feasibility of a new intervention approach designed to reach and support this underserved population."
+    summary: "Meine Promotionsarbeit konzentriert sich auf Jugendliche mit sexuell problematischem Verhalten, die außerhalb des Justizsystems („Dunkelfeld“) bleiben. Das Projekt untersucht die aktuellen Versorgungsstrukturen in Deutschland und prüft die Umsetzbarkeit eines neuen Interventionsansatzes, der darauf abzielt, diese bislang unzureichend erreichte Zielgruppe zu erreichen und zu unterstützen."
   - degree: "Weiterbildung zur Gerichtsgutachterin "
     institution: "Institut für verhaltenstherapeutisch fundierte Psychotherapie (IVS)"
     start: "2024-07-01"
@@ -46,18 +46,18 @@ education:
     institution: "Gesellschaft für Verhaltenstherapie"
     start: "2019-10-01"
     end: "2023-10-01"
-    summary: "Mehrjährige staatlich anerkannte Ausbildung mit Schwerpunkt auf verhaltenstherapeutischen Ansätzen in der Diagnostik und Behandlung von Kindern, Jugendlichen und jungen Erwachsenen.\""
+    summary: "Mehrjährige staatlich anerkannte Ausbildung mit Schwerpunkt auf verhaltenstherapeutischen Ansätzen in der Diagnostik und Behandlung von Kindern, Jugendlichen und jungen Erwachsenen."
   - degree: "Master Sonderpädagogik"
     institution: "Leibniz Universität Hannover"
     start: "2019-10-01"
     end: "2021-09-01"
-    summary: "Pädagogisch-psychologische Vertiefung in Förderung, Diagnostik und Beratung von Kindern und Jugendlichen mit sonderpädagogischem Unterstützungsbedarf, Schwerpunkt emotionale und soziale Entwicklung."
+    summary: "Pädagogisch-psychologische Vertiefung in Förderung, Diagnostik und Beratung von Kindern und Jugendlichen mit sonderpädagogischem Unterstützungsbedarf; Schwerpunkt emotionale und soziale Entwicklung."
 experience:
-  - role: "Projekttherapeutin und Promotionsstudentin im Präventionsprojekt #180Grad"
+  - role: "Projekttherapeutin und Doktorandin im Präventionsprojekt 180Grad"
     org: "Medizinische Hochschule Hannover"
     start: "2022-11-01"
     end: ""
-    summary: "Klinisch-therapeutische und wissenschaftliche Tätigkeit im Rahmen des Projekts 180Grad zur Prävention sexualisierter und grenzverletzender Verhaltensweisen bei Jugendlichen. Durchführung diagnostischer und therapeutischer Interventionen, Mitarbeit in Forschung und Konzeptentwicklung sowie Promotion im Bereich forensischer und klinischer Jugendpsychologie."
+    summary: "Klinisch-therapeutische und wissenschaftliche Tätigkeit im Rahmen des Projekts 180Grad zur Prävention sexualisierter und grenzverletzender Verhaltensweisen bei Jugendlichen. Durchführung diagnostischer und therapeutischer Interventionen, Mitarbeit in Forschung und Konzeptentwicklung sowie Promotion im Fachbereich Klinische Psychologie und Sexualmedizin."
   - role: "Kinder- und Jugendlichenpsychotherapeutin"
     org: "Netzwerk für traumatisierte Geflüchtete (NTFN)"
     start: "2022-06-01"
@@ -67,8 +67,7 @@ experience:
     org: "Kinder- und Jugendkrankenhaus auf der Bult (Teen-Spirit-Island)"
     start: "2021-07-01"
     end: "2022-07-01"
-    summary: "bsolvierung des obligatorischen praktischen Klinikjahrs (1.200 Stunden) gemäß Psychotherapeutengesetz in stationärer kinder- und jugendpsychiatrischer Behandlung."
-#skills: []
+    summary: "Absolvierung des obligatorischen praktischen Klinikjahrs (1.200 Stunden) gemäß Psychotherapeutengesetz in stationärer kinder- und jugendpsychiatrischer Behandlung."
 languages:
   - name: "Englisch"
     level: 4
@@ -94,3 +93,5 @@ status:
   icon: "🎓"
 ids:
   orcid: "0000-0002-0346-2839"
+  google_scholar: "f8LZ1q8AAAAJ&hl"
+  research_gate: "Laura Stüde"

@@ -2,9 +2,8 @@
 title: "Treatment Options in Sexually Transgressive Behaviors in Adolescence: Review and Presentation of a Novel Prevention Program 180Grad"
 authors:
   - me
-  - Jannis Engel
-date: "2025-01-01"
-publishDate: "2017-01-01T00:00:00Z"
+date: 2025-01-01
+publishDate: 2017-01-01T00:00:00Z
 publication_types:
   - article
 publication: "*Acta Psychologica*"
@@ -14,14 +13,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 featured: true
 hugoblox: []
-links: 
-  - type: pdf
-    url: "http://arxiv.org/pdf/1512.04133v1"
+#links:
+#  - "type: pdf"
 image: []
 projects: []
 slides: ""
 draft: false
-
 ---
 
 This work is driven by the results in my [previous paper](/publications/conference-paper/) on LLMs.

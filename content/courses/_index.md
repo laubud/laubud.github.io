@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Fortbildungen
+summary: Fortbildungen
 type: landing
 
 cascade:
@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Fortbildungen
       filters:
         tag: Course
         kinds:

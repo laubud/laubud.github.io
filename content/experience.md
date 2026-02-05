@@ -14,7 +14,7 @@ sections:
     content:
       username: me
       headings:
-        experience: "Erfahrung"
+        Erfahrung: "Erfahrung"
     design:
       # Hugo date format
       date_format: "January 2006"
