@@ -3,3 +3,9 @@
 #events-science .card .card-image {
   display: none;
 }
+/* Falls du icon_class benutzt hast */
+.membership-icon {
+  font-size: 5rem;      /* macht Icon größer */
+  width: 5rem;
+  height: 5rem;
+}

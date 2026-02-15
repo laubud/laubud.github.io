@@ -16,9 +16,9 @@ sections:
       username: me
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download Lebenslauf
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download Lebenslauf
+      #  url: uploads/resume.pdf
       headings:
         about: ""
         education: "Bildung"
@@ -46,7 +46,7 @@ sections:
         Als Psychotherapeutin und Doktorandin an der Medizinischen Hochschule Hannover arbeite ich derzeit im Präventionsprojekt 180Grad. Das Projekt richtet sich an Jugendliche, die bereits sexualisierte Gewalt ausgeübt haben, sich jedoch im sogenannten Dunkelfeld befinden und somit nicht polizeilich bekannt sind. Darüber hinaus bieten wir psychotherapeutische Unterstützung für Heranwachsende an, die aufgrund eigener Risikofantasien frühzeitig Hilfe suchen.
 
         Im Rahmen meiner Promotion untersuche ich, wie spezialisierte psychotherapeutische Interventionen Rückfälle oder Ersttaten im Bereich der sexuellen Delinquenz wirksam reduzieren können. Zudem analysiere ich, welche strukturellen und versorgungsbezogenen Herausforderungen einer flächendeckenden Behandlung dieser Zielgruppe derzeit entgegenstehen.
-        
+
         Als approbierte Kinder- und Jugendlichenpsychotherapeutin mit dem Schwerpunkt Verhaltenstherapie verbinde ich klinische Erfahrung mit empirischer Forschung. Mein Ziel ist es, praxisnahe und evidenzbasierte Behandlungskonzepte für sexuell grenzverletzende Jugendliche weiterzuentwickeln. Über Anfragen zu Kooperationen, gemeinsamen Projekten oder beruflichen Perspektiven im Bereich der forensischen Psychologie, Kinder- und Jugendpsychiatrie oder Prävention sexualisierter Gewalt freue ich mich sehr.
 
 

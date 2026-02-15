@@ -24,10 +24,30 @@ sections:
     content:
       title: Auszeichnungen
       username: me
-  - block: resume-skills
+  - block: features
     content:
-      title: Mitgliedschaften
-      username: me
+      title: "Mitgliedschaften"
+      text: ""
+      items:
+        - name: "PKN - Psychotherapeutenkammer Niedersachsen"
+          description: "seit 2019"
+          icon: "custom/pkn"
+        - name: "DPtV - Deutsche PsychotherapeutenVereinigung"
+          description: "seit 2023"
+          icon: "custom/dptv"
+        - name: "DeGPT - Deutschsprachige Gesellschaft für Psychotraumalogie"
+          description: "seit 2026"
+          icon: "custom/degpt"
+          icon_pack: "custom"
+          icon_class: "membership-icon"
+    design:
+      columns: "3"
+      background:
+        color: "gray-50"
+  # - block: resume-skills
+  #   content:
+  #     title: Mitgliedschaften
+  #     username: me
   #- block: resume-languages
   #  content:
   #    title: Languages
