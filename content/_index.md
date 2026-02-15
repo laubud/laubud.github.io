@@ -43,11 +43,13 @@ sections:
       title: "Über mich"
       subtitle: ""
       text: |-
-        Als Projekttherapeutin und Doktorandin an der Medizinischen Hochschule Hannover arbeite ich im Präventionsprojekt 180Grad, das therapeutische Angebote für Jugendliche mit sexuell grenzverletzendem Verhalten entwickelt und evaluiert, um sexualisierte Gewalt frühzeitig zu verhindern. 
+        Als Psychotherapeutin und Doktorandin an der Medizinischen Hochschule Hannover arbeite ich derzeit im Präventionsprojekt 180Grad. Das Projekt richtet sich an Jugendliche, die bereits sexualisierte Gewalt ausgeübt haben, sich jedoch im sogenannten Dunkelfeld befinden und somit nicht polizeilich bekannt sind. Darüber hinaus bieten wir psychotherapeutische Unterstützung für Heranwachsende an, die aufgrund eigener Risikofantasien frühzeitig Hilfe suchen.
 
-        In meiner Promotion befasse ich mich mit forensischer Jugendpsychologie und der Frage, wie spezialisierte psychotherapeutische Interventionen Rückfälle reduzieren und Opferschutz durch wirksame Täterprävention verbessern können.
+        Im Rahmen meiner Promotion untersuche ich, wie spezialisierte psychotherapeutische Interventionen Rückfälle oder Ersttaten im Bereich der sexuellen Delinquenz wirksam reduzieren können. Zudem analysiere ich, welche strukturellen und versorgungsbezogenen Herausforderungen einer flächendeckenden Behandlung dieser Zielgruppe derzeit entgegenstehen.
+        
+        Als approbierte Kinder- und Jugendlichenpsychotherapeutin mit dem Schwerpunkt Verhaltenstherapie verbinde ich klinische Erfahrung mit empirischer Forschung. Mein Ziel ist es, praxisnahe und evidenzbasierte Behandlungskonzepte für sexuell grenzverletzende Jugendliche weiterzuentwickeln. Über Anfragen zu Kooperationen, gemeinsamen Projekten oder beruflichen Perspektiven im Bereich der forensischen Psychologie, Kinder- und Jugendpsychiatrie oder Prävention sexualisierter Gewalt freue ich mich sehr.
 
-        Als approbierte bzw. in fortgeschrittener Weiterbildung befindliche Kinder- und Jugendlichenpsychotherapeutin mit Schwerpunkt Verhaltenstherapie verbinde ich klinische Erfahrung mit empirischer Forschung, um praxisnahe, evidenzbasierte Konzepte zur Behandlung sexuell grenzverletzender Jugendlicher zu entwickeln. Für Kooperationsanfragen, gemeinsame Projekte oder berufliche Perspektiven im Bereich Forensische Psychologie, Kinder- und Jugendpsychiatrie oder Prävention sexualisierter Gewalt freue ich mich über Kontakt.
+
     design:
       columns: "1"
   - block: collection

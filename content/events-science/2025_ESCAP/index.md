@@ -14,7 +14,7 @@ location: Palais de la Musique et des Congrès Straßburg
 
 summary: "Novel Approaches in the prevention of Adolescent Sexual Offending: initial Findings from the 180Grad Project"
 abstract: |
-  Auf dem Europäischen Kongress für Kinderpsychiatrie und verwandte Fachbereiche (ESCAP) 2025 präsentierte ich in einer Oral Session zum Thema „Sexuelle Verhaltensweisen" erste Erkenntnisse aus dem 180Grad-Projekt der Medizinischen Hochschule Hannover. Der Kongress stand unter dem Leitthema „Beyond Nature and Nurture" und vereinte europäische Fachleute aus Kinder- und Jugendpsychiatrie, Psychotherapie und klinischer Psychologie.
+  Auf dem Europäischen Kongress für Kinderpsychiatrie und verwandte Fachbereiche (ESCAP) 2025 präsentierte ich in einer Oral Session zum Thema „Sexuelle Verhaltensweisen" erste Erkenntnisse aus dem 180Grad Projekt der Medizinischen Hochschule Hannover. Der Kongress stand unter dem Leitthema „Beyond Nature and Nurture" und vereinte europäische Fachleute aus Kinder- und Jugendpsychiatrie, Psychotherapie und klinischer Psychologie.
 
 # Talk start and end times.
 event_start: "2025-06-30T13:00:00Z"

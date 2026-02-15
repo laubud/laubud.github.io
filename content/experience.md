@@ -24,10 +24,10 @@ sections:
     content:
       title: Auszeichnungen
       username: me
-  #- block: resume-skills
-    #content:
-     # title: Skills & Hobbies
-    #  username: me
+  - block: resume-skills
+    content:
+      title: Mitgliedschaften
+      username: me
   #- block: resume-languages
   #  content:
   #    title: Languages
